@@ -3,4 +3,4 @@
 | Projects  | Links |
 | ------------- | ------------- |
 | Ordin Recipe  | [Xinyi's recipes](https://xinyi-long.github.io/odin-projects/odin-recipes/)|
-| Content Cell  | Content Cell  |
+| Landing Page  | [Hometown Project](https://xinyi-long.github.io/odin-projects/landing-page/)|
